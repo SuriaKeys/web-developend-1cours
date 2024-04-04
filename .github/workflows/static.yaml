@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'site/Lecture34/after'
+          path: 'web-developend-site/Lecture34/after'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
