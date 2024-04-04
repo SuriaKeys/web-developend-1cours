@@ -85,7 +85,7 @@ body {
 
 /* гол ст*/
 .container .jumbotron {
-  box-shadow: 0 0 50px greenyellow;
+  box-shadow: 0 0 50px green;
   border: 2px solid green;
 }
 
